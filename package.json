@@ -1,0 +1,28 @@
+{
+  "name": "github-commits-app",
+  "version": "1.0.0",
+  "description": "关联插件示例, 关联GitHub Commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeqiang/github-commits-app.git"
+  },
+  "author": "Teambition",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeqiang/github-commits-app/issues"
+  },
+  "homepage": "https://github.com/leeqiang/github-commits-app#readme",
+  "dependencies": {
+    "jsonwebtoken": "^7.1.9",
+    "koa": "^1.2.4",
+    "koa-router": "^5.4.0",
+    "teambition": "^1.3.0"
+  },
+  "devDependencies": {
+    "standard": "^8.4.0"
+  }
+}

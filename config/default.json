@@ -1,0 +1,17 @@
+{
+  "name": "Youdao notes App For Teambition",
+  "host": "",
+  "port": 13000,
+  "youdao": {
+    "baseUrl": "",
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uri": "",
+    "description": "进入到有道开放平台，创建应用: http://note.youdao.com/open"
+  },
+  "app": {
+    "client_id": "",
+    "client_secret": "",
+    "description": "创建 teambition 应用，并配置 client_id & client_secret"
+  }
+}
